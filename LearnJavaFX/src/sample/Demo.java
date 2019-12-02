@@ -10,6 +10,8 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
 import java.awt.*;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Demo extends Application {
 
